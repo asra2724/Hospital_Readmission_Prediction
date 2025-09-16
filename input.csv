@@ -1,0 +1,2 @@
+age,time_in_hospital,n_lab_procedures,n_procedures,n_medications,n_outpatient,n_inpatient,n_emergency,medical_specialty,diag_1,diag_2,diag_3,glucose_test,A1Ctest,change,diabetes_med,num_diagnoses,total_med_procedures,age_group_simplified
+[50-60),15,10,6,10,0,12,2,Cardiology,Resipratory,Resipratory,Other,normal,high,yes,yes,3,16,Middle-aged
