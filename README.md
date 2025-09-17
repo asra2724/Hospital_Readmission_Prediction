@@ -1,2 +1,5 @@
 # Hospital_Readmission_Prediction
+The Readmit Care project tackles the significant challenge of unplanned hospital readmissions in the healthcare industry. Unplanned readmissions increase costs for hospitals and can lead to worse health outcomes for patients. Our solution is an AI-powered machine learning model that predicts a patient's likelihood of being readmitted. The model processes patient data, uses a stacking ensemble technique for higher accuracy, and provides a readmission risk score for each patient. The predictive analytics pipeline uses techniques like K-Nearest Neighbors (KNN) imputation to handle missing data and SMOTEENN  to address class imbalance. The model achieved an average F1-Score of 0.83 and an average ROC-AUC of 0.87, demonstrating its effectiveness. By enabling proactive care, our solution can help hospitals optimize resources, improve patient outcomes, and reduce overall costs.
+<img width="12037" height="54" alt="image" src="https://github.com/user-attachments/assets/af3a57ba-d23c-4fb5-ac9b-889e690043d1" />
+
 
